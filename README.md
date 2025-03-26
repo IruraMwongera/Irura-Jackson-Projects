@@ -25,12 +25,12 @@
    - [__NooteBook_3__](https://github.com/IruraMwongera/irurajackblogs/blob/main/Face_detection_3.ipynb)
    - [__NoteBook_4__](https://github.com/IruraMwongera/irurajackblogs/blob/main/Face_detection_4.ipynb)
      
-## __ Medical Data__
+2. __Medical Data__
    - [__Generative and Discriminative Models__](https://github.com/IruraMwongera/irurajackblogs/blob/main/Generative%20and%20Discriminitive_in_medical_detection.ipynb)
    - [__Medigan Model__](https://github.com/IruraMwongera/irurajackblogs/blob/main/Using_Medigan_model_in_medical_detection.ipynb)
    - [__Generative, Discriminative and Medigan Models__](https://github.com/IruraMwongera/irurajackblogs/blob/main/Medigan%2CGenerative%20and%20Descriptive_in_Medical_detection.ipynb)
      
-## __Traffic Data__
+3. __Traffic Data__
    - [__Traffic Detection__](https://github.com/IruraMwongera/irurajackblogs/blob/main/Trafic_detection.ipynb)
    -  [__YOLO Model__](https://colab.research.google.com/drive/10JoyRqaOEUwKXgFGwKmvGzgwkl92FJgb?usp=sharing)
 
