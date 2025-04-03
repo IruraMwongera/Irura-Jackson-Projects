@@ -34,8 +34,19 @@
    - [__Traffic Detection__](https://github.com/IruraMwongera/irurajackblogs/blob/main/Trafic_detection.ipynb)
    -  [__YOLO Model__](https://colab.research.google.com/drive/10JoyRqaOEUwKXgFGwKmvGzgwkl92FJgb?usp=sharing)
   
-     # __RELATIONAL DATABASES__
-- [__Adnamced Sql and Joins__]( https://github.com/IruraMwongera/irurajackblogs/blob/main/advanced_sql_aggregation_and_joins.ipynb)
+     # __RELATIONAL DATABASES__   
+ [__Introduction to Relational databases with SQL__](https://github.com/IruraMwongera/irurajackblogs/blob/main/relational_databases_and_sql.ipynb)
+ - __What on the notebook__
+
+1. Use cases and design of relational databases and SQL
+2. Setting up a database locally using MySQL server
+3. Creating, modifying and deleting databases and database tables
+4, SQL Data types and constraints (primary key, foreign key)
+5. CRUD (Create, Read, Update and Delete) operations on tables
+6. Exporting and importing data from relational databases
+
+
+[__Adnamced Sql and Joins__]( https://github.com/IruraMwongera/irurajackblogs/blob/main/advanced_sql_aggregation_and_joins.ipynb)
   - __What on the notebook__
 
 1. Aggregation, grouping and pagination in SQL queries
@@ -43,5 +54,9 @@
 3. Combining data from different tables using SQL joins
 4. Improving query performance with indexes
 5. Executing SQL queries using Python and SQLAlchemy
+
+
+
+
   
 
