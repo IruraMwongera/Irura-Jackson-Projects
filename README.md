@@ -34,8 +34,8 @@
    - [__Traffic Detection__](https://github.com/IruraMwongera/irurajackblogs/blob/main/Trafic_detection.ipynb)
    -  [__YOLO Model__](https://colab.research.google.com/drive/10JoyRqaOEUwKXgFGwKmvGzgwkl92FJgb?usp=sharing)
   
-     # __RELATIONAL DATABASES__   
- [__Introduction to Relational databases with SQL__](https://github.com/IruraMwongera/irurajackblogs/blob/main/relational_databases_and_sql.ipynb)
+     # __RELATIONAL DATABASES WITH SQL__   
+ [__Introduction to Relational Databases with SQL__](https://github.com/IruraMwongera/irurajackblogs/blob/main/relational_databases_and_sql.ipynb)
  - __What on the notebook__
 
 1. Use cases and design of relational databases and SQL
