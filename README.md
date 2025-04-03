@@ -33,4 +33,15 @@
 3. __Traffic Data__
    - [__Traffic Detection__](https://github.com/IruraMwongera/irurajackblogs/blob/main/Trafic_detection.ipynb)
    -  [__YOLO Model__](https://colab.research.google.com/drive/10JoyRqaOEUwKXgFGwKmvGzgwkl92FJgb?usp=sharing)
+  
+     # __RELATIONAL DATABASES__
+- [__Adnamced Sql and Joins__]( https://github.com/IruraMwongera/irurajackblogs/blob/main/advanced_sql_aggregation_and_joins.ipynb)
+  - __What on the notebook__
+
+1. Aggregation, grouping and pagination in SQL queries
+2. Mapping functions, arithmetic and working with dates
+3. Combining data from different tables using SQL joins
+4. Improving query performance with indexes
+5. Executing SQL queries using Python and SQLAlchemy
+  
 
